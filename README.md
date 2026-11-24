@@ -28,7 +28,7 @@ Complete 3D parametric modelling, multi-part assembly design, and ISO-compliant 
 ### Longitudinal Section View (Internal Fluid Path & Fit Check)
 ![Section View](./03_assembly_section_view.PNG)
 
-### Exploded Assembly View & Bill of Materials (ISO A3 Drawing)
+### Exploded Assembly View & Bill of Materials
 ![Exploded View & BOM](./02_exploded_view.PNG)
 
 ## Bill of Materials (11 Components)
