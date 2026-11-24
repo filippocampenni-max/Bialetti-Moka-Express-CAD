@@ -34,7 +34,7 @@ Complete 3D parametric modelling, multi-part assembly design, and ISO-compliant 
 ## Bill of Materials (11 Components)
 1. **Caldaia** *(Lower Boiler)*
 2. **Filtro ad imbuto** *(Funnel Filter)*
-3. **Raccoglitore superiore** *(Upper Collector)*
+3. **Raccoglitore** *(Upper Collector)*
 4. **Coperchio** *(Lid)*
 5. **Manico** *(Handle)*
 6. **Pomello** *(Lid Knob)*
